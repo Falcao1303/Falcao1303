@@ -1,5 +1,9 @@
 ### Hi it's me Lucas 👋
 
+I'm looking for a job... 👨‍💻 
+I'm studying a lot about many ways to make things real 💻
+HTML💻JAVASCRIPT💻CSS💻PHP💻BOOTSTRAP💻ANGULAR💻
+
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Falcap133)](https://github.com/Falcao1303)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ducksdsfak@gmail.com)](ducksdsfak@gmail.com)
