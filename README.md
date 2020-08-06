@@ -1,7 +1,9 @@
 ### Hi it's me Lucas 👋
-
+</br>
 I'm looking for a job... 👨‍💻 
+</br>
 I'm studying a lot about many ways to make things real 💻
+</br>
 HTML💻JAVASCRIPT💻CSS💻PHP💻BOOTSTRAP💻ANGULAR💻
 
 
