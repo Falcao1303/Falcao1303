@@ -5,6 +5,9 @@ I'm looking for a job... 👨‍💻
 I'm studying a lot about many ways to make things real 💻
 </br>
 HTML💻JAVASCRIPT💻CSS💻PHP💻BOOTSTRAP💻ANGULAR💻
+
+</br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Falcao1303" alt="falcao1303" /> </p>
 </br>
 
 
