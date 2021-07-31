@@ -17,6 +17,6 @@ HTML💻JAVASCRIPT💻CSS💻PHP💻BOOTSTRAP💻ANGULAR💻
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5542999415987&text=Olá!)](https://api.whatsapp.com/send?phone=5542999415987&text=Olá!)
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=falcao1303&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falcao1303&layout=compact&langs_count=7&theme=black"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=falcao1303&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falcao1303&layout=compact&langs_count=7&theme=dark"/>
 </div>
