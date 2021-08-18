@@ -1,6 +1,6 @@
 ### Hi it's me Lucas 👋
 </br>
-I'm a intern in web development at MM Labs, MM Brazil... 👨‍💻 
+I'm a full-stack developer jr. at MM Labs, MM Brazil... 👨‍💻 
 </br>
 I'm studying a lot about many ways to make things real 💻
 </br>
