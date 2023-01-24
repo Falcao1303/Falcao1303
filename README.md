@@ -19,4 +19,5 @@ HTML💻JAVASCRIPT💻CSS💻PHP💻LARAVEL💻BOOTSTRAP💻ANGULAR💻NODEJS
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=falcao1303&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falcao1303&layout=compact&langs_count=7&theme=dark"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Falcao1303)](https://git.io/streak-stats)  
 </div>
